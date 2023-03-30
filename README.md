@@ -1,6 +1,6 @@
 # belly-button-challenge
 module 14 challenge 
-JavaScript code is in the StaterCode file in the static/js folder
+JavaScript and index in main repo
 
 Below image shows screen shots of the website drop down bar works the screen shot shows the outputs for test subject ID No. 1235
 
